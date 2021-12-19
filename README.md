@@ -11,7 +11,7 @@ Besides, the final winner will also be decided according to the total score.
 ## 2. Language
 - Python  
 
-## 3. How to explore the data with the code
+## 3. How to play this game
 
 - Input `python starter.py` on your terminal to run this program
 - Follow the instruction by typing `rock`, `paper` or `scissors` (case-insensitive) for each round of the game.  
